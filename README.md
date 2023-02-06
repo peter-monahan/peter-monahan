@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there
+
+I'm a software engineer located in Southeast Missouri. I enjoy spending time with my wife and two daughters, playing music, and diving into projects that excite me.
 
 <!--
 **peter-monahan/peter-monahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

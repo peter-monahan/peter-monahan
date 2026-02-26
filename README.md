@@ -11,9 +11,9 @@ Python, TypeScript, QuickBase, React, Jinja2, C#, Literally[^2] anything else if
 ## EXPERIENCE
 ________________ | Company | Role | Location | Timeframe
 --- | --- | --- | --- | ---
-![Safe.Right.Fast Logo](srf) | Safe.Right.Fast. | Software Engineer | Canonsburg, PA / Remote in MO | Nov 2023 -> Present
-![Nitto Logo](nitto) | Nitto ACJ | Machine Operator | Jackson, MO | Jun 2020 -> Oct 2023
-![Chick-fil-A Logo](cfa) | Chick-fil-A | Team Leader | Cape Girardeau, MO | Jan 2017 -> Jun 2020
+![Safe.Right.Fast Logo][srf] | Safe.Right.Fast. | Software Engineer | Canonsburg, PA / Remote in MO | Nov 2023 -> Present
+![Nitto Logo][nitto] | Nitto ACJ | Machine Operator | Jackson, MO | Jun 2020 -> Oct 2023
+![Chick-fil-A Logo][cfa] | Chick-fil-A | Team Leader | Cape Girardeau, MO | Jan 2017 -> Jun 2020
 
 ## EDUCATION & CERTIFICATIONS
 - ### QuickBase: Expert Builder

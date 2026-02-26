@@ -23,7 +23,6 @@ ________________ | Company | Role | Location | Timeframe
 - ### App Academy
     *Curriculum of Study in Full Stack Web Development (Python, JavaScript, and libraries including React, Flask, and Sequelize)*
 
-![Current Time in UTC](https://hookrace.net/time.gif)
 
 [^1]: Not Pete. 
 [^2]: Figuratively.

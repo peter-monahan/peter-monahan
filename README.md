@@ -1,9 +1,10 @@
 # Hello! My name is Peter[^1]
+<!--
 [My (outdated) Personal Site](https://peter-monahan.github.io/) | [My (deleted) LinkedIn](https://www.linkedin.com/in/peter-monahan-8011bb235/) | [My (redacted) Email](mailto:p****************@gmail.com)
 --- | --- | --- 
+-->
 
-
-I'm a software engineer located in Jackson Missouri. I enjoy spending time with my wife and three children, playing music, and diving into projects that excite me. 
+I'm a software engineer located in Jackson, Missouri. I enjoy spending time with my wife and three children, playing music, and diving into projects that excite me. 
 
 ## SKILLS
 Python, TypeScript, QuickBase, React, Jinja2, C#, Literally[^2] anything else if you give me a couple weeks.
@@ -17,11 +18,11 @@ ________________ | Company | Role | Location | Timeframe
 
 ## EDUCATION & CERTIFICATIONS
 - ### QuickBase: Expert Builder
-    *Validates ability to design, build, implement and maintain Quickbase apps at an expert level*
+    *Validates ability to design, build, implement, and maintain Quickbase apps at an expert level.*
 - ### Microsoft Certified: Azure Fundamentals (AZ-900)
     *Demonstrates foundational-level knowledge of cloud services and how those services are provided with Microsoft Azure.*
 - ### App Academy
-    *Curriculum of Study in Full Stack Web Development (Python, JavaScript, and libraries including React, Flask, and Sequelize)*
+    *Curriculum of Study in Full Stack Web Development (Python, JavaScript, and libraries including React, Flask, and Sequelize).*
 
 
 [^1]: Not Pete. 
